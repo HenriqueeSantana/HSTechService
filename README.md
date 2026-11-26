@@ -1,4 +1,4 @@
-a<p align="center">
+<p align="center">
   <img src="docs/logo.png" alt="HSTechService" width="360">
 </p>
 
